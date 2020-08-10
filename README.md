@@ -1,13 +1,16 @@
 # Project 3
 ### Cluster Analysis through unsupervised learning on Fashion MNIST image dataset using K-means algorithm, Auto-Encoder based K-means clustering model and Auto-Encoder based Gaussian Mixture Model
 
-CSE 474/574: Introduction to Machine Learning
-(Fall 2019)
-Sargur N. Srihari
-University at Bualo, The State University of New York
-Bualo, New York 14260
-Contact: 716-645-6162 (O), srihari@bualo.edu
-October 21, 2019
+CSE 474/574: Introduction to Machine Learning 
+(Fall 2019) 
+
+Sargur N. Srihari 
+University at Bufalo,
+
+The State University of New York 
+Bufalo, New York 14260
+
+September 9, 2019
 
 ## 1 Task
 The task of this project is to perform cluster analysis on fashion MNIST dataset using unsupervised
